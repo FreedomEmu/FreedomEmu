@@ -1,4 +1,4 @@
 FreedomEmu
 ==========
 
-Based on Trinitycore, With Custom Things
+Based on Trinitycore, With Blizzlike and a little custom things
