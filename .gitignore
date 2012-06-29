@@ -1,12 +1,15 @@
-# Compiled Object files
-*.slo
-*.lo
-*.o
-
-# Compiled Dynamic libraries
-*.so
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
+build/
+CMakeFiles/
+.directory
+*.php
+*.lnk
+*.html
+*.patch
+*.diff
+*.rej
+*.orig
+*.zip
+*.7zip
+*.rar
+*.tar.gz
+.git/
